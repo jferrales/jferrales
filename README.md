@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Justin Ferrales and this is my engineering portfolio.
 
 <!--
 **jferrales/jferrales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
