@@ -17,3 +17,11 @@ Programming Languages: python, MATLAB, Java, Scale, Arduino, R, Excel, Microsoft
 Technologies/Frameworks: Hadoop, Spark, scikit-learn, JUnit, MapReduce, Plotly, pandas
 
 Enginerring Skills: Solidworks, Autodesk Inventor, Granta Materials Selector Software
+
+## Coursework
+### Aerospace Engineering
+Propulsion Systems, Aerospace Modeling and Simulation, Structural Analysis, Space
+Environments, Experimental Stress Analysis, Human Spaceflight, Engineering Dynamics
+### Computer Science
+Data Structures, Data Science, Distributed Computing, Object Oriented Programming
+
