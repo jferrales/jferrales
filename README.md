@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Justin.
 
-[![LinkedIn]([https://example.com/image.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png))](https://www.linkedin.com/in/justinferrales/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/justinferrales/)
+
 
 
 ## About Me
