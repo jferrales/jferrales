@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Justin.
 
-<a href="https://www.linkedin.com/in/justinferrales/">
+Connect with me: <a href="https://www.linkedin.com/in/justinferrales/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="50" />
 </a>
 
