@@ -13,5 +13,7 @@ I am a recent graduate from Cal Poly with a B.S. in Aerospace Engineering with a
 
 ## Skills
 Programming Languages: python, MATLAB, Java, Scale, Arduino, R, Excel, Microsoft Office
+
 Technologies/Frameworks: Hadoop, Spark, scikit-learn, JUnit, MapReduce, Plotly
+
 Enginerring Skills: Solidworks, Autodesk Inventor, Granta Materials Selector Software
